@@ -1,4 +1,4 @@
-# learning-approximate-invariance-requires-far-fewer-data
+# Learning-approximate-invariance-requires-far-fewer-data
 
 This is the code going along the paper Jean-Michel A. Sarr, Alassane Bah, Christophe Cambier, "Learning approximate invariance requires far fewer data" accepted at the Uncertainty in Deep Learning Workshop at ICML 2020.
 
