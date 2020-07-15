@@ -1,6 +1,6 @@
 # Learning-approximate-invariance-requires-far-fewer-data
 
-This is the code going along the paper Jean-Michel A. Sarr, Alassane Bah, Christophe Cambier, "Learning approximate invariance requires far fewer data" accepted at the Uncertainty in Deep Learning Workshop at ICML 2020.
+If you use this code, please cite: Jean-Michel A. Sarr, Alassane Bah, Christophe Cambier, Learning approximate invariance requires far fewer data, Presented at the ICML 2020 Workshop on Uncertainty and Robustness in Deep Learning.
 
 ## Experiment: Stability of invariance inducing techniques on generalization gains
 Just run the code launch.py
